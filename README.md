@@ -3,7 +3,7 @@ Data Scientist | Machine Learning Enthusiast  <br><br>🔹 Passionate about solv
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-<h3 align="left">Connect with me: aswathkmadhu@gmail.com</h3>
+<!-- <h3 align="left">Connect with me: aswathkmadhu@gmail.com</h3> -->
 <p align="left">
 <a href="https://linkedin.com/in/aswathk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswathk" height="30" width="40" /></a>
 
