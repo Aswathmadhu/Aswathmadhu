@@ -1,14 +1,19 @@
 ## 🐴 Hi, I'm Aswath 👋  
 Data Scientist | Machine Learning Enthusiast  <br><br>🔹 Passionate about solving real-world problems using data  <br>🔹 Skilled in Python, SQL, Machine Learning, Deep Learning and Data Visualization 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<div data-importer="socials" align="left">
+  <a href="mailto:aswathkmadhu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/aswathk/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+<!-- <img data-importer="snake" src="https://raw.githubusercontent.com/Aswathmadhu/Aswathmadhu/snake-output/snake.svg" alt="Snake animation" /> -->
 
 
-<!-- <h3 align="left">Connect with me: aswathkmadhu@gmail.com</h3> -->
-<p align="left">
-<a href="https://linkedin.com/in/aswathk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswathk" height="30" width="40" /></a>
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswathkmadhu@gmail.com) 
-</p>
+###
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
