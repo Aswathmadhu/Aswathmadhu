@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150px" height="150px">
 
 # 🐴 Hey, I'm Aswath
 
@@ -8,7 +8,12 @@
 
 </div>
 <!-- 🐴 Hi, I'm Aswath 👋   -->
-Data Scientist | Machine Learning Enthusiast  <br><br>🔹 Passionate about solving real-world problems using data  <br>🔹 Skilled in Python, SQL, Machine Learning, Deep Learning and Data Visualization 
+<!-- Data Scientist | Machine Learning Enthusiast  <br><br>🔹 Passionate about solving real-world problems using data  <br>🔹 Skilled in Python, SQL, Machine Learning, Deep Learning and Data Visualization  -->
+
+## 🚀 About Me
+
+I'm an AI/ML Engineer passionate about crafting intelligent solutions that tackle real-world challenges. With a strong foundation in Machine Learning, Deep Learning, and Computer Vision, I thrive on turning data into actionable insights using cutting-edge technologies like LLMs and Agentic AI.
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <div data-importer="socials" align="left">
   <a href="mailto:aswathkmadhu@gmail.com" target="_blank">
@@ -24,7 +29,7 @@ Data Scientist | Machine Learning Enthusiast  <br><br>🔹 Passionate about solv
 
 ###
 
-# 💻 Tech Stack:
+## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
