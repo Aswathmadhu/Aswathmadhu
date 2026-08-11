@@ -1,18 +1,18 @@
-<div align="center">
+<!-- <div align="center"> -->
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150px" height="150px">
+<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150px" height="150px"> -->
 
-# 🐴 Hey, I'm Aswath
+## 🐴 Hey, I'm Aswath  👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI%2FML%20ENGINEER;)](https://git.io/typing-svg)
 
-</div>
+<!-- </div> -->
 <!-- 🐴 Hi, I'm Aswath 👋   -->
 <!-- Data Scientist | Machine Learning Enthusiast  <br><br>🔹 Passionate about solving real-world problems using data  <br>🔹 Skilled in Python, SQL, Machine Learning, Deep Learning and Data Visualization  -->
 
-## 🚀 About Me
+
 
 I'm an AI/ML Engineer passionate about crafting intelligent solutions that tackle real-world challenges. With a strong foundation in Machine Learning, Deep Learning, and Computer Vision, I thrive on turning data into actionable insights using cutting-edge technologies like LLMs and Agentic AI.
+
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <div data-importer="socials" align="left">
